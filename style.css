@@ -95,12 +95,12 @@ box-shadow: inset 8px 8px 8px #cbced1,
     display: block;
     justify-content: center;
     align-items: center;
-     width:-50px
+    
  }
   .row{
     font-size: 16px;
     border: none;
     outline: none;
-   
+    width:-50px;
 }
 }
