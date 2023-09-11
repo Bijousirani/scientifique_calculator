@@ -83,7 +83,7 @@ box-shadow: inset 8px 8px 8px #cbced1,
 @media screen and (max-width:844px) {
    .container{
     width: 80%;
-    height: 78vh;
+    height: 75vh;
     margin-top: 15px;
     border-radius: 1rem;
  }
@@ -95,7 +95,6 @@ box-shadow: inset 8px 8px 8px #cbced1,
     display: block;
     justify-content: center;
     align-items: center;
-    padding-left:0.5rem;
  }
   .row{
     font-size: 16px;
