@@ -17,7 +17,7 @@
     <button onclick="fact()">x!</button>
     <button class="btn">(</button>
     <button class="btn">)</button>
-    <button class="btn">%</button>
+    <button onclick="pourcent()">%</button>
     <button id="ac" onclick="screen.value=''">AC</button>
 </div>
 <div class="row">
@@ -119,6 +119,9 @@
     function backspc(){
 screen.value=screen.value.substr(0,screen.value.length-1);
     }
+    function pourcent() {
+                    screen.value = screen.value / 100
+                }
 </script>
 
         </div>
